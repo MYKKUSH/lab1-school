@@ -1,0 +1,2 @@
+Student: Vasyl, Average: 90.0
+  Discipline: Math, Marks: [90]
